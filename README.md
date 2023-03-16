@@ -1,3 +1,9 @@
+#Project By Team Maverick
+
+1. Aaron Mathew Shaji
+2. Siddharth KM
+3. Joel B Koshy
+
 # INSPIRATION BEHIND THE PROJECT![image](https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png)
 
 Buying a home is one of the most significant investments that people make in their lifetime. It is a complex decision that requires careful consideration of various factors, such as location, size, and amenities. However, the most crucial factor that influences the decision-making process is the price.
