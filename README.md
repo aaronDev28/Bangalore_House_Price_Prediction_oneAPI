@@ -30,7 +30,7 @@ Overall, Bengaluru House Prediction is a powerful tool that can benefit potentia
 
 ### ✅ First We Imported libraries
 
-### ✅Understand the data [Dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
+### ✅Understand the [Data](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 
 ### ✅Test Different Models and find the best model out of it
 
