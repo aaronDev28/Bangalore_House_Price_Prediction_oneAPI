@@ -1,5 +1,5 @@
 
-  <h1 align="center">Bangalore House Price Prediction </h1>
+  <h1 align="center">BANGALORE HOUSE PRICE PREDICTION </h1>
 
   <p align="center">
       Welcome to our project!
