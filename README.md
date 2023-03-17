@@ -100,7 +100,7 @@ Overall, the use of oneDAL in our project was crucial to achieving the level of 
 - Python, Intel One API, Intel oneDAL, Scikit-learn, Pandas, Numpy, Flask, Matplotlib, GridSearchCV, K-fold cross-validation, and Pickle are powerful tools and libraries used in developing machine learning models and web applications.
 The project demonstrates the power of data science in solving real-world problems and provides a robust framework for developing similar machine-learning applications.
 
-These are just a few examples of the knowledge and skills that i likely gained while building this project. 
+These are just a few examples of the knowledge and skills that we likely gained while building this project. 
 Overall, building a price prediction application is a challenging and rewarding experience that requires a combination of technical expertise and real estate knowledge.
 
 
