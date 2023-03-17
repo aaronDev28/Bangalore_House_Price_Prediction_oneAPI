@@ -35,7 +35,7 @@
   <li><b>Expected outcomes:</b> The project aims to provide a reliable solution to an essential problem in the real estate industry and be useful to anyone interested in buying or selling properties in Bangalore.</li>
 </ul>
 
-# What It Does ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
+# What It Does <img src= "https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png" width="70" height="70">
 <h2>Project Description</h2>
 <p>"Bengaluru House Prediction" is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. Additionally, it uses a pickle file to store the trained model.</p>
 <h2>User Interface</h2>
