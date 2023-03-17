@@ -12,7 +12,7 @@
   </p>
 </div>
 
-# Inspiration Behind The Project <img src= "https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png" width="70" height="70"> 
+# Inspiration Behind The Project <img src= "https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png" width="50" height="50"> 
 
 <ul>
   <li><b>Project objective:</b> To develop a machine learning-based model to predict home prices accurately for potential homebuyers in Bangalore.</li>
@@ -21,7 +21,7 @@
   <li><b>Expected outcomes:</b> The project aims to provide a reliable solution to an essential problem in the real estate industry and be useful to anyone interested in buying or selling properties in Bangalore.</li>
 </ul>
 
-# What It Does <img src= "https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png" width="70" height="70">
+# What It Does <img src= "https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png" width="50" height="50">
 
 <div align="center">
  <img src="https://github.com/joelbkoshy/Assets/blob/main/projectgif.gif" type="gif" alt="png" width="750">
@@ -45,7 +45,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![python][python]][python-url]
 * [![jupyter][jupyter]][jupyter-url]
 
-## Intel oneAPI
+## Intel oneAPI <img src="https://github.com/joelbkoshy/Assets/blob/main/oneapi2.png" alt="png" width="30">
 
 Intel oneAPI is a comprehensive suite of software development tools designed to simplify the development of high-performance applications across a variety of architectures, including CPUs, GPUs, FPGAs, and other accelerators. One of the main benefits of oneAPI is that it enables developers to take advantage of the full power of modern hardware, including the latest CPUs and GPUs, without having to write separate code for each platform. This can help save time and reduce development costs, as well as improve the overall performance of the application. Some common uses of oneAPI include developing machine learning models, accelerating data analytics workloads, and optimizing scientific simulations.
 
@@ -71,7 +71,7 @@ This allowed us to seamlessly integrate oneDAL into our existing codebase and ta
 Overall, the use of oneDAL in our project was crucial to achieving the level of accuracy, efficiency, and optimization necessary for accurate house price predictions. By leveraging the power of Intel's oneAPI platform, we were able to take our machine learning models to the next level and produce results that exceeded our expectations.
 
 
-# How We built it ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
+# How We built it <img src= "https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png" alt="png" width="50">
 
 ### ✅ First We Imported libraries
 
@@ -87,10 +87,10 @@ Overall, the use of oneDAL in our project was crucial to achieving the level of 
 
 ### ✅Save the model
 
-### USER INTERFACE OF THE PROJECT
+### User Interface
 ![intel](https://github.com/joelbkoshy/read/blob/main/ui.png)
 
-# What we learned ![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
+# What we learned <img src= "https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png" alt="png" width="50">
 
 
 ![image](https://user-images.githubusercontent.com/72274851/220130227-3c48e87b-3e68-4f1c-b0e4-8e3ad9a4805a.png)
