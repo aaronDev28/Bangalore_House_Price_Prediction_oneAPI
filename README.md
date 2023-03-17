@@ -1,11 +1,5 @@
-# Project By Team Maverick
 
-1. Aaron Mathew Shaji
-2. Siddharth KM
-3. Joel B Koshy
-
-
-  <h3 align="center">Bangalore House Price Prediction </h3>
+  <h1 align="center">Bangalore House Price Prediction </h1>
 
   <p align="center">
       Welcome to our project!
