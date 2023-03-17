@@ -16,7 +16,7 @@
   <p align="center">
       Welcome to our project!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aaronDev28/Bangalore_House_Price_Prediction_oneAPI"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
