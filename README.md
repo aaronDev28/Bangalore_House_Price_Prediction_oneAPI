@@ -26,7 +26,7 @@
   </p>
 </div>
 
-# INSPIRATION BEHIND THE PROJECT![image] <img src= "https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png" width="100" height="100"> 
+# INSPIRATION BEHIND THE PROJECT <img src= "https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png" width="70" height="70"> 
 
 <ul>
   <li><b>Project objective:</b> To develop a machine learning-based model to predict home prices accurately for potential homebuyers in Bangalore.</li>
