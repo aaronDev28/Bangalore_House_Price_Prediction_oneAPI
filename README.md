@@ -1,9 +1,5 @@
-<a name="readme-top"></a>
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-  
+
+  <img src="https://github.com/joelbkoshy/Assets/blob/main/pngwing.com.png">
   <h1 align="center">BANGALORE HOUSE PRICE PREDICTION </h1>
 
   <p align="center">
