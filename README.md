@@ -28,20 +28,48 @@
  </div>
 
 <h2>Project Description</h2>
-<p>Bengaluru House Prediction" is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. Additionally, it uses a pickle file to store the trained model.</p>
+<p>Bengaluru House Prediction is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. Additionally, it uses a pickle file to store the trained model.</p>
 <h2>User Interface</h2>
 <p>The project features a sleek and intuitive user interface using HTML, CSS, and JavaScript. It allows users to input the necessary features and receive an instant price prediction. The user interface also provides various visualizations to help users understand the factors that influence the predicted price.</p>
 <h2>Benefits</h2>
 <p>Bengaluru House Prediction is a powerful tool that can benefit potential homebuyers, real estate agents, and property developers. It empowers users with the right information to make informed decisions, negotiate better deals, and avoid overpaying. The project also demonstrates the power of data science in solving real-world problems and provides a robust framework for developing similar machine learning applications.</p>
 
-### Built With <img src="images/built.png" alt="png" width="30">
+### Built With 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![oneapi][oneapi]][oneapi-url]
-  * [![onedal][onedal]][onedal-url]
+*  [![Scikit-learn ][Scikit-learn]][Scikit-learn]
+* [![onedal][onedal]][onedal-url]
+* [![Flask][Flask]][Flask-url]
 * [![python][python]][python-url]
 * [![jupyter][jupyter]][jupyter-url]
+
+## Intel oneAPI
+
+Intel oneAPI is a comprehensive suite of software development tools designed to simplify the development of high-performance applications across a variety of architectures, including CPUs, GPUs, FPGAs, and other accelerators. One of the main benefits of oneAPI is that it enables developers to take advantage of the full power of modern hardware, including the latest CPUs and GPUs, without having to write separate code for each platform. This can help save time and reduce development costs, as well as improve the overall performance of the application. Some common uses of oneAPI include developing machine learning models, accelerating data analytics workloads, and optimizing scientific simulations.
+
+
+
+### Use of oneDAL
+
+In our Bengaluru House Price Prediction project, we used the oneDAL library of Intel oneAPI to optimize and accelerate our machine learning models. By using the oneDAL library, we were able to take advantage of Intel's industry-leading optimization and parallelization capabilities to improve the efficiency, accuracy, and performance of our models.
+
+To use oneDAL in our project, we applied the sklearnex patch to our machine learning models. This was done using the code:
+
+```
+from sklearnex import patch_sklearn
+patch_sklearn()
+```
+
+Some few examples in the project:<br>
+<img src="https://github.com/joelbkoshy/Assets/blob/main/intel1.png" alt="png" width="600">
+<img src="https://github.com/joelbkoshy/Assets/blob/main/intel2.png" alt="png"  width="600">
+
+This allowed us to seamlessly integrate oneDAL into our existing codebase and take advantage of its powerful capabilities without having to rewrite our entire code. With oneDAL, we were able to accelerate the training of our models and improve their accuracy, allowing us to make more accurate predictions about the prices of houses in Bengaluru based on various features such as square feet, bedrooms, bathrooms, and location.
+
+Overall, the use of oneDAL in our project was crucial to achieving the level of accuracy, efficiency, and optimization necessary for accurate house price predictions. By leveraging the power of Intel's oneAPI platform, we were able to take our machine learning models to the next level and produce results that exceeded our expectations.
+
 
 # How We built it ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
 
@@ -76,6 +104,19 @@ The project demonstrates the power of data science in solving real-world problem
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
 Overall, building a price prediction application is a challenging and rewarding experience that requires a combination of technical expertise and real estate knowledge.
 
-[contributors-shield]: https://img.shields.io/github/contributors/aaronDev28/Bangalore_House_Price_Prediction_oneAPI/
+
+
+[python]: https://img.shields.io/badge/Python-3470a3?&logoColor=white
+[python-url]: https://www.python.org/
+[jupyter]: https://img.shields.io/badge/Jupyter%20Notebook-da5b0b?&logoColor=white
+[jupyter-url]: https://jupyter.org/
+[Scikit-learn]: https://img.shields.io/badge/Scikit-learn-20232A?&logoColor=61DAFB
+[Scikit-learn-url]: https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2023-0/intel-oneapi-data-analytics-library-onedal.html
+[Flask]: https://img.shields.io/badge/Flask-90E0EF?&logoColor=white
+[Flask-url]: https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2023-0/intel-oneapi-data-analytics-library-onedal.html
+[oneapi]: https://img.shields.io/badge/Intel%20oneAPI-20232A?&logoColor=61DAFB
+[oneapi-url]: https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2023-0/intel-oneapi-data-analytics-library-onedal.html
+[onedal]: https://img.shields.io/badge/oneDAL-20232A?&logoColor=61DAFB
+[onedal-url]: https://www.intel.com/content/www/us/en/developer/tools/oneapi/onedal.html
 
 
