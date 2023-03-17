@@ -1,5 +1,5 @@
 
-  <img src="https://github.com/joelbkoshy/Assets/blob/main/pngwing.com.png">
+  <center><img src="https://github.com/joelbkoshy/Assets/blob/main/pngwing.com.png"></center>
   <h1 align="center">BANGALORE HOUSE PRICE PREDICTION </h1>
 
   <p align="center">
