@@ -35,25 +35,13 @@
   <li><b>Expected outcomes:</b> The project aims to provide a reliable solution to an essential problem in the real estate industry and be useful to anyone interested in buying or selling properties in Bangalore.</li>
 </ul>
 
-Buying a home is one of the most significant investments that people make in their lifetime. It is a complex decision that requires careful consideration of various factors, such as location, size, and amenities. However, the most crucial factor that influences the decision-making process is the price.
-
-Our project aims to provide potential homebuyers in Bangalore with a reliable machine learning-based model to predict home prices accurately. By leveraging the power of data, we can create a predictive model that takes into account various factors that influence property prices, such as location, proximity to essential facilities, market trends, and more.
-
-Our motivation for this project is to empower potential homebuyers with the right information to make an informed decision. By providing accurate price predictions, we can help them make smarter decisions, avoid overpaying, and negotiate better deals. This project can also benefit real estate agents and property developers who can use the model to estimate prices for their properties and make informed decisions about their investments.
-
-We hope that this project will be useful to anyone interested in buying or selling properties in Bangalore and provide a reliable solution to an essential problem in the real estate industry
-
 # What It Does ![image](https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png)
-
-Bengaluru House Prediction is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It is designed to provide accurate and reliable price predictions for potential homebuyers in Bangalore.
-
-The project follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The result is a highly accurate and efficient machine learning model that can handle large datasets and deliver precise predictions.
-
-To make the project more user-friendly, we have developed a sleek and intuitive user interface using HTML, CSS, and JavaScript. The user interface allows users to input the necessary features and receive an instant price prediction. It also provides various visualizations to help users understand the factors that influence the predicted price.
-
-The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. This enables seamless integration with other applications and systems. Additionally, the project uses a pickle file to store the trained model, making it easy to deploy and use in various environments.
-
-Overall, Bengaluru House Prediction is a powerful tool that can benefit potential homebuyers, real estate agents, and property developers. It empowers users with the right information to make informed decisions, negotiate better deals, and avoid overpaying. The project also demonstrates the power of data science in solving real-world problems and provides a robust framework for developing similar machine learning applications.
+<h2>Project Description</h2>
+<p>"Bengaluru House Prediction" is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. Additionally, it uses a pickle file to store the trained model.</p>
+<h2>User Interface</h2>
+<p>The project features a sleek and intuitive user interface using HTML, CSS, and JavaScript. It allows users to input the necessary features and receive an instant price prediction. The user interface also provides various visualizations to help users understand the factors that influence the predicted price.</p>
+<h2>Benefits</h2>
+<p>Bengaluru House Prediction is a powerful tool that can benefit potential homebuyers, real estate agents, and property developers. It empowers users with the right information to make informed decisions, negotiate better deals, and avoid overpaying. The project also demonstrates the power of data science in solving real-world problems and provides a robust framework for developing similar machine learning applications.</p>
 
 # How We built it ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
 
