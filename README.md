@@ -1,4 +1,9 @@
-
+<a name="readme-top"></a>
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  
   <h1 align="center">BANGALORE HOUSE PRICE PREDICTION </h1>
 
   <p align="center">
@@ -25,7 +30,7 @@
 
 # What It Does <img src= "https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png" width="70" height="70">
 <h2>Project Description</h2>
-<p>"Bengaluru House Prediction" is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. Additionally, it uses a pickle file to store the trained model.</p>
+<p>Bengaluru House Prediction" is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. Additionally, it uses a pickle file to store the trained model.</p>
 <h2>User Interface</h2>
 <p>The project features a sleek and intuitive user interface using HTML, CSS, and JavaScript. It allows users to input the necessary features and receive an instant price prediction. The user interface also provides various visualizations to help users understand the factors that influence the predicted price.</p>
 <h2>Benefits</h2>
@@ -73,5 +78,6 @@ The project demonstrates the power of data science in solving real-world problem
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
 Overall, building a price prediction application is a challenging and rewarding experience that requires a combination of technical expertise and real estate knowledge.
 
+[contributors-shield]: https://img.shields.io/github/contributors/aaronDev28/Bangalore_House_Price_Prediction_oneAPI/
 
 
