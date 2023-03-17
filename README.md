@@ -1,20 +1,18 @@
- ![image](https://github.com/joelbkoshy/Assets/blob/main/pngwing.com.png)
+<div align="center">
+ <a href="https://github.com/aaronDev28/Bangalore_House_Price_Prediction_oneAPI" >   
+  <img src="https://github.com/joelbkoshy/Assets/blob/main/pngwing.com.png" width="80" height="90">
+  </div>
   <h1 align="center">BANGALORE HOUSE PRICE PREDICTION </h1>
 
   <p align="center">
       Welcome to our project!
     <br />
-    <a href="https://github.com/aaronDev28/Bangalore_House_Price_Prediction_oneAPI"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://www.youtube.com/watch?v=l9oMgSgGNek">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
   </p>
 </div>
 
-# INSPIRATION BEHIND THE PROJECT <img src= "https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png" width="70" height="70"> 
+# Inspiration Behind The Project <img src= "https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png" width="70" height="70"> 
 
 <ul>
   <li><b>Project objective:</b> To develop a machine learning-based model to predict home prices accurately for potential homebuyers in Bangalore.</li>
@@ -24,6 +22,11 @@
 </ul>
 
 # What It Does <img src= "https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png" width="70" height="70">
+
+<div align="center">
+ <img src="https://github.com/joelbkoshy/Assets/blob/main/projectgif.gif" type="gif" alt="png" width="750">
+ </div>
+
 <h2>Project Description</h2>
 <p>Bengaluru House Prediction" is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. Additionally, it uses a pickle file to store the trained model.</p>
 <h2>User Interface</h2>
