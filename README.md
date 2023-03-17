@@ -34,16 +34,15 @@
 <h2>Benefits</h2>
 <p>Bengaluru House Prediction is a powerful tool that can benefit potential homebuyers, real estate agents, and property developers. It empowers users with the right information to make informed decisions, negotiate better deals, and avoid overpaying. The project also demonstrates the power of data science in solving real-world problems and provides a robust framework for developing similar machine learning applications.</p>
 
-### Built With <img src="images/built.png" alt="png" width="30">
+### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![oneapi][oneapi]][oneapi-url]
-  * [![onedal][onedal]][onedal-url]
+ * [![onedal][onedal]][onedal-url]
 * [![python][python]][python-url]
 * [![jupyter][jupyter]][jupyter-url]
 
-# How We built it ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png)
+# How We built it ![image](https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png) 
 
 ### ✅ First We Imported libraries
 
@@ -76,6 +75,14 @@ The project demonstrates the power of data science in solving real-world problem
 These are just a few examples of the knowledge and skills that i likely gained while building this project. 
 Overall, building a price prediction application is a challenging and rewarding experience that requires a combination of technical expertise and real estate knowledge.
 
-[contributors-shield]: https://img.shields.io/github/contributors/aaronDev28/Bangalore_House_Price_Prediction_oneAPI/
+[python]: https://img.shields.io/badge/Python-3470a3?&logoColor=white
+[python-url]: https://www.python.org/
+[jupyter]: https://img.shields.io/badge/Jupyter%20Notebook-da5b0b?&logoColor=white
+[jupyter-url]: https://jupyter.org/
 
+
+[oneapi]: https://img.shields.io/badge/Intel%20oneAPI-20232A?&logoColor=61DAFB
+[oneapi-url]: https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2023-0/intel-oneapi-data-analytics-library-onedal.html
+[onedal]: https://img.shields.io/badge/oneDAL-20232A?&logoColor=61DAFB
+[onedal-url]: https://www.intel.com/content/www/us/en/developer/tools/oneapi/onedal.html
 
