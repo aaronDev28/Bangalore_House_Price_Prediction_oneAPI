@@ -28,6 +28,13 @@
 
 # INSPIRATION BEHIND THE PROJECT![image](https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png)
 
+<ul>
+  <li><b>Project objective:</b> To develop a machine learning-based model to predict home prices accurately for potential homebuyers in Bangalore.</li>
+  <li><b>Factors considered:</b> The model takes into account various factors that influence property prices, such as location, proximity to essential facilities, market trends, and more.</li>
+  <li><b>Project motivation:</b> To empower potential homebuyers with accurate price predictions and help them make informed decisions, avoid overpaying, and negotiate better deals. The project can also benefit real estate agents and property developers in estimating prices for their properties and making informed decisions.</li>
+  <li><b>Expected outcomes:</b> The project aims to provide a reliable solution to an essential problem in the real estate industry and be useful to anyone interested in buying or selling properties in Bangalore.</li>
+</ul>
+
 Buying a home is one of the most significant investments that people make in their lifetime. It is a complex decision that requires careful consideration of various factors, such as location, size, and amenities. However, the most crucial factor that influences the decision-making process is the price.
 
 Our project aims to provide potential homebuyers in Bangalore with a reliable machine learning-based model to predict home prices accurately. By leveraging the power of data, we can create a predictive model that takes into account various factors that influence property prices, such as location, proximity to essential facilities, market trends, and more.
